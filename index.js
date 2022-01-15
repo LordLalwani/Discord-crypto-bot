@@ -61,7 +61,7 @@ const getPrices = () => {
 
 client.on('ready', () => {
     console.log('Logged in as', client.user.tag)
-        // setAvatar()
+    setAvatar()
     getPrices()
     setInterval(getPrices, Math.max(1, process.env.MC_PING_FREQUENCY || 1) * 60 * 100)
 })
