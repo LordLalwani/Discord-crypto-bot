@@ -19,6 +19,3 @@ Just follow these steps:
 
 This was created for my Discord server, but I wanted to share it with added flexibility for anyone to use.
 This relies on the API hosted at https://api.coingecko.com
-## future plan
-
-Backup exchange to be pancake swap for smaller tokens.
