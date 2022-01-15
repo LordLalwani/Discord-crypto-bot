@@ -1,6 +1,6 @@
 # Discord crypto bot 🚀
 
-This bot will update its status message with the current price of the desired cryptocurrency.
+This bot will update its status message with the current price of the desired cryptocurrency
 
 v1
 ![Example bot setup.](assets/270710234_417841750081184_5575582315986315246_n.png)
